@@ -1,3 +1,17 @@
+# tailwindcss-playground
+
+learn [tailwindcss](https://tailwindcss.com/)
+
+## Resources
+
+* <https://dev.to/hagnerd/setting-up-tailwind-with-create-react-app-4jd>
+
+---
+
+> create-react-app README.md below
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
